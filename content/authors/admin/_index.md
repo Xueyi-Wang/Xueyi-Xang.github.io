@@ -19,7 +19,7 @@ role: Postdoctoral Researcher at the University of Groningen
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Groningen
-    url: https://www.stanford.edu/
+    url: https://www.rug.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
