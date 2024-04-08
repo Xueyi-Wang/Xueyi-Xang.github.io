@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Research tools
 cms_exclude: true
 
 # View.
