@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Work in Habrok from University of Groningen
+date: 2024-04-07
 math: true
 image:
   placement: 2
