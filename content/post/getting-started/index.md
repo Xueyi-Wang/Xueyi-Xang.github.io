@@ -41,9 +41,3 @@ categories:
 ---
 
 I will add more details later.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
