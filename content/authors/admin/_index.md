@@ -26,9 +26,10 @@ bio: My research interests include computer vision, deep learning, and programma
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Deep learning
-  - Rehabilitation
+  - Time series analysis
+  - Smart rehabilitation
+  - Smart Health
 
 # Education to show in About widget
 education:
