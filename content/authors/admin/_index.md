@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher at the University of Groningen
+role: Postdoctoral Researcher at
 
 # Organizations/Affiliations to show in About widget
 organizations:
