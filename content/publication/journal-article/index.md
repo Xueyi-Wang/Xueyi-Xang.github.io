@@ -20,7 +20,7 @@ publishDate: "2023-09-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Sensor Journal"
 publication_short: ""
 
 abstract: Falls have been widely recognized as one of the most dangerous incidents for the elderly and other people with mobility limitations. This problem has attracted wide scientific interest, which has led to several investigations based on nonvision wearable sensors and static cameras. We investigate the challenge of fall detection and recognition using egocentric wearable cameras, which, besides portability and affordability, capture visual information that can be further leveraged for a broad set of lifelogging applications. 
