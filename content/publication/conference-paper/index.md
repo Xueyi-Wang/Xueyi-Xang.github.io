@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Fall Detection with Event-Based Data: A Case Study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,17 +7,22 @@ title: 'An example conference paper'
 authors:
   - admin
   - Robert Ford
+  - Nicoletta Risi
+  - Estefanía Talavera
+  - Elisabetta Chicca
+  - Dimka Karastoyanova
+  - George Azzopardi 
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-09-20T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-09-20T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,10 +33,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Fall detection systems are relevant in our aging society aiming to support efforts towards reducing the impact of accidental falls. However, current solutions lack the ability to combine low-power consumption, privacy protection, low latency response, and low payload. In this work, we address this gap through a comparative analysis of the trade-off between effectiveness and energy consumption by comparing a Recurrent Spiking Neural Network (RSNN) with a Long Short-Term Memory (LSTM) and a Convolutional Neural Network (CNN). By leveraging two pre-existing RGB datasets and an event-camera simulator, we generated event data by converting intensity frames into event streams. Thus, we could harness the salient features of event-based data and analyze their benefits when combined with RSNNs and LSTMs. The compared approaches are evaluated on two data sets collected from a single subject; one from a camera attached to the neck (N-data) and the other one attached to the waist (W-data). Each data set contains 469 video samples, of which 213 are four types of fall examples, and the rest are nine types of non-fall daily activities.
 
 tags: []
 
