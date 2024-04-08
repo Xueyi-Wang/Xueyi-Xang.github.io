@@ -13,9 +13,6 @@ authors:
   - George Azzopardi
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2023-09-20T00:00:00Z'
 doi: ''
