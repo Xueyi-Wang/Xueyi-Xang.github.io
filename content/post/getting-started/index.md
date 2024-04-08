@@ -3,7 +3,7 @@ title: How to connect Virtual Research Workspace
 subtitle: A short tutorial about how to connect and work in VRW (Virtual Research Workspace).
 
 # How to connect Virtual Research Workspace
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: I will briefly introduce how to use the VRW in University of Groningen
 
 # Link this post with a project
 projects: []
