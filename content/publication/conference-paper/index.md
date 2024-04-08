@@ -6,7 +6,6 @@ title: 'Fall Detection with Event-Based Data: A Case Study'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
   - Nicoletta Risi
   - Estefanía Talavera
   - Elisabetta Chicca
