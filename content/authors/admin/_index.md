@@ -58,7 +58,7 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Deep learning
         description: ''
         percent: 40
         icon: database
@@ -67,15 +67,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Skiing
         description: ''
         percent: 100
-        icon: cat
+        icon: Scuba-diving
         icon_pack: fas
       - name: Photography
         description: ''
