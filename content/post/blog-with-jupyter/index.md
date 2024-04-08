@@ -1,5 +1,5 @@
 ---
-title: How to Connect remote server from University
+title: How to Connect Habrok from University of Groingen
 date: '2023-11-04'
 summary: A short tutorial for connecting sever of university from University of Groningen
 ---
