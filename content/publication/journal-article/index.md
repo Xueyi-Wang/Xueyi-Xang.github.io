@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Fall detection with a non-intrusive and first-person vision approach"
 authors:
 - admin
-- Robert Ford
+- E Talavera
+- D Karastoyanova
+- G Azzopardi
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-09-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-09-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
