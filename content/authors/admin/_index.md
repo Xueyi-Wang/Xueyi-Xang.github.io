@@ -28,6 +28,7 @@ bio: My research interests include computer vision, deep learning, and programma
 interests:
   - Deep learning
   - Time series analysis
+  - Multi-modal Learning
   - Smart rehabilitation
   - Smart Health
 
