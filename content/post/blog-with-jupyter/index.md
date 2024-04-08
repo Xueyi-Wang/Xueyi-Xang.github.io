@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: How to Connect remote server from University
 date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+summary: A short tutorial for connecting sever of university from University of Groningen
 ---
 
 
