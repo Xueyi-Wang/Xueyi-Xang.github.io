@@ -27,7 +27,7 @@ abstract: Falls have been widely recognized as one of the most dangerous inciden
 by a pretrained convolutional neural network. For the spatial and deep features, we consider the similarity of such features between frames in regular intervals of a given time window. In this way, it is the transition between such frames that are encoded in our approach, while the actual scene content does not play a role. We design several experiments to investigate the best camera location and performance for indoor and outdoor activities and employ leave-one-subjectout cross-validation to test the generalization ability of our approach. For the fall detection (i.e., two-class) problem, our approach achieves 91.8% accuracy, 93.6% sensitivity, and 89.2% specificity.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We contributed a large dataset and developed an algorithm to detect falls and classify different kinds of daily activities.
 
 tags:
 - Source Themes
