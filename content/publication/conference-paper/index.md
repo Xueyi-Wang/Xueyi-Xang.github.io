@@ -10,7 +10,7 @@ authors:
   - Estefanía Talavera
   - Elisabetta Chicca
   - Dimka Karastoyanova
-  - George Azzopardi 
+  - George Azzopardi
 
 # Author notes (optional)
 author_notes:
