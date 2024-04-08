@@ -22,7 +22,7 @@ organizations:
     url: https://www.rug.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, deep learning and programmable matter.
+bio: My research interests include computer vision, deep learning, and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: xueyi.wang@rug.nl
+    link: '/#xueyi.wang@rug.nl'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/xueyiwang_/
