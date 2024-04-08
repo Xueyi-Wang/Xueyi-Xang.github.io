@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xueyi Wang 王学艺
+title: Xueyi Wang
 
 # Full name (for SEO)
 first_name: Xueyi
