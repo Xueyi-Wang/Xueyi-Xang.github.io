@@ -1,15 +1,4 @@
 ---
-title: Research tools
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
----
+title: How to Connect Habrok from the University of Groningen
+date: '2024-08-04'
+summary: A short tutorial for connecting habrok from University of Groningen
