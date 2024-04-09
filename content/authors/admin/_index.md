@@ -92,7 +92,7 @@ Skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#xueyi.wang@rug.nl'
+    link: 'mailto:xueyi.wang@rug.nl'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/xueyiwang_/
